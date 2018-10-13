@@ -1,0 +1,47 @@
+<style>
+body {margin:0;font-family:sans-serif;color:#444;}
+</style>
+<span class="font-13 color-red">* Required</span>
+<br />
+<form action-xhr="https://docs.google.com/forms/d/1FAIpQLSdw7cz-LR_a7ElZU1Mg2dyXYz0nOVkTBt7FScietIsCTfZRLA/formResponse" class="contact__form" id="contact__form" method="post" target="_top">
+<div class="contact__form-name contact__form-content">
+<input aria-label="Name" id="entry.2005620554" name="entry.2005620554" required="required" title="Name" type="text" value="" />
+<label>Name<i>*</i></label>
+<span class="bar"></span>
+</div>
+<div class="contact__form-email contact__form-content">
+<input aria-label="Email" id="entry.1045781291" name="entry.1045781291" required="required" title="Must be a valid email address" type="email" value="" />
+<label>Email<i>*</i></label>
+<span class="bar"></span>
+</div>
+<div class="contact__form-message contact__form-content">
+<textarea aria-label="Message" aria-required="true" cols="0" id="entry.839337160" name="entry.839337160" required="required" rows="5" spellcheck="false"></textarea>
+<label>Message<i>*</i></label>
+<span class="bar"></span>
+</div>
+<input name="draftResponse" type="hidden" value="[,,&quot;-3334923125417922164&quot;]" />
+<input name="pageHistory" type="hidden" value="0" />
+<input name="fbzx" type="hidden" value="-3334923125417922164" />
+<br />
+<div class="contact__form-action contact__form-content">
+<button name="submit" type="submit">Send</button>
+</div>
+<div class="contact__form-stats" submit-success="submit-success">
+<div class="contact__form-stats-content">
+<h2>
+Form submitted successfully</h2>
+<div class="msg">
+Jika tidak ada halangan dan kesibukan lainnya, saya akan langsung merespon pesan yang Anda kirimkan.</div>
+<a href="http://tests-it.blogspot.com/p/contact.html" title="OK">OK</a>
+</div>
+</div>
+<div class="contact__form-stats" submit-error="submit-error">
+<div class="contact__form-stats-content">
+<h2>
+Form submitted successfully</h2>
+<div class="msg">
+Jika tidak ada halangan dan kesibukan lainnya, admin akan langsung merespon pesan yang Anda kirimkan.</div>
+<a href="http://www.agungdesign.com/p/contact.html" title="OK">OK</a>
+</div>
+</div>
+</form>
